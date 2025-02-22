@@ -1,0 +1,38 @@
+header{
+    display: flex;
+    gap:130px;
+    align-items: center;
+    padding: 50px;
+    justify-content: space-between;
+    background-color: #FFC2E0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.link{
+    margin-left: 25px;
+    padding: 5px;
+    border: white solid;
+    background-color: white;
+    border-radius: 50px;
+    color: #FF78BC;
+}
+
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+
+.banner{
+    background-image: url(img/banner.png);
+    background-size: cover;
+    background-position: center;
+    margin: 35px;
+    padding: 25px;
+    height: 500px;
+    border-radius:50px;
+}
